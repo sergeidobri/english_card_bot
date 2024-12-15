@@ -1,0 +1,4 @@
+__pycache__
+secret.env
+.venv
+tg_bot_theory.ipynb
